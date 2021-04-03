@@ -17,7 +17,7 @@ to K-12 students** during the weekends. 🌈
 - ✍🏻 i write my personal thoughts on programming & tech in my
   [Personal Blog](https://bctc.io) WIP.
 
-<!-- <details> -->
+<details>
   <summary>some stats</summary>
   <br>
 
@@ -31,4 +31,4 @@ to K-12 students** during the weekends. 🌈
 <!-- <img src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" /> -->
 </p>
 
-<!-- </details> -->
+</details>
