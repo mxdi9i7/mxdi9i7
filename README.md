@@ -2,20 +2,20 @@
 
 # Hello there 👋
 
-I am a Software Engineer **💻 Fullstack Web Development 🌐** by day and **lead
-for a small software development taskforce** by night 💫. I also **teach Python
-to K-12 students** during the weekends. 🌈
+I run an education company called [FS Education (Future Sphere)](https://fs.education). Worked as a Software Engineer for 8 years **💻 in Full Stack Web Development 🌐**
+I've teaching for 12 years and I spend a ton of time building cool things. 🌈
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mxdi9i7.visitor-badge)
 
-- 🧐 experienced in fullstack web development.
-- 💼 senior engineer at guardian life.
-- 🎓 did not finish college.
-- 🌱 currently learning React Native.
-- 📚 reading about team/project management.
-- 💻 with 5 years of professional experience.
-- ✍🏻 i write my personal thoughts on programming & tech in my
-  [Personal Blog](https://bctc.io) WIP.
+What my day looks like
+- 🧐 find talents to recruit for FS
+- 💼 oversee strategic operations, business development and team management
+- 🎓 drive business growth, and expand STEM programs
+- 🌱 teaching classes and lead student teams on software development projects
+- 📚 writing my book on social system design
+- 💻 have mini hackathons and code cool things
+- ✍🏻 i write and collect my thoughts on busines, tech, history, politics and education in my
+  [Personal Blog](https://peterz.us) it's WIP.
 
 <details>
   <summary>some stats</summary>
