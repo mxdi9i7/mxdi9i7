@@ -15,7 +15,7 @@ What my day looks like
 - 📚 writing my book on social system design
 - 💻 have mini hackathons and code cool things
 - ✍🏻 i write and collect my thoughts on busines, tech, history, politics and education in my
-  [Personal Blog](https://peterz.us) it's WIP.
+  [Personal Blog](https://peterz.me) it's WIP.
 
 <details>
   <summary>some stats</summary>
