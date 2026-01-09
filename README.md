@@ -14,7 +14,7 @@ What my day looks like
 - 🌱 teaching classes and lead student teams on software development projects
 - 📚 writing my book on social system design
 - 💻 have mini hackathons and code cool things
-- ✍🏻 i write and collect my thoughts on busines, tech, history, politics and education in my
+- ✍🏻 i weekly write and collect my thoughts on busines, tech, history, politics and education in my
   [Personal Blog](https://peterz.me) it's WIP.
 
 <details>
