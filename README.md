@@ -3,7 +3,7 @@
 # Hello there 👋
 
 I run an education company called [FS Education (Future Sphere)](https://fs.education). Worked as a Software Engineer for 8 years **💻 in Full Stack Web Development 🌐**
-I've teaching for 12 years and I spend a ton of time building cool things. 🌈
+I've been teaching for 12 years and I spend a ton of time building cool things. 🌈
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mxdi9i7.visitor-badge)
 
